@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Flutter with Node js, Express js and Mongodp.**
 
 - 👨‍💻 My portfolio website:- [Click here ](https://krishnabhattacharya.github.io/#/)
-- 👨‍💻 My resume :- [Click here ](https://drive.google.com/file/d/1Lz-pJI1WTZqhhTHCq7LaC_C3EM7XQ04t/view)
+- 👨‍💻 My resume :- [Click here ](https://drive.google.com/file/d/1_NtYVv5jqrs9HcMrCdHXgMepYNzdtQZ_/view)
 
 - 💬 Ask me about **Flutter and Backend related queries.**
 
