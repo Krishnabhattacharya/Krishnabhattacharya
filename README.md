@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Studying **BTech (Computer Science and Engineering)**
 
-- 🌱 I’m currently learning **Flutter with Node js, Express js and Mongodp.**
+- 🌱 I’m currently learning **Flutter with Node js, Express js and Mongodb.**
 
 - 👨‍💻 My portfolio website:- [Click here ](https://krishnabhattacharya.github.io/#/)
 - 👨‍💻 My resume :- [Click here ](https://drive.google.com/file/d/1_NtYVv5jqrs9HcMrCdHXgMepYNzdtQZ_/view)
